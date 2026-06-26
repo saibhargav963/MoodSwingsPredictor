@@ -1,0 +1,268 @@
+ID,Age,Menopause Status,Irregular Menstruation,Vaginal Dryness,Hot Flashes,Chills,Night Sweats,Weight Gain,Metabolic Slowing,Severe PMS,Prior Mental Health Issues,Diet and Nutrition,Sleep Quality,Physical Activity,Social Life,Severe Joint Pains,General Pains,Mood Swings
+1,50,Perimenopausal,Yes,No,Moderate,Mild,Severe,Mild,No,Mild,No,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,Yes
+2,48,Premenopausal,No,Yes,Mild,No,Moderate,No,No,No,Yes,Unbalanced,Mild,High,Severe,No,No ,No
+3,52,Perimenopausal,Yes,Yes,Severe,Moderate,Very Severe,Moderate,Moderate,Yes,Mild,Balanced,Mild,Low,Mild,Moderate,Moderate,Yes
+4,55,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+5,49,Premenopausal,Yes,No,Moderate,Mild,Moderate,No,No,No,No,Unbalanced,Mild,High,Severe,No,No ,No
+6,53,Postmenopausal,No,Yes,Severe,Moderate,Very Severe,Moderate,Yes,Yes,Yes,Balanced,Moderate ,Low,Mild,Severe,Moderate,Yes
+7,47,Premenopausal,Yes,No,Mild,Mild,Mild,No,No,No,Yes,Balanced,Moderate ,High,Severe,Mild,Mild,No
+8,51,Perimenopausal,No,Yes,Moderate,Mild,Moderate,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Low,Moderate ,Severe,Moderate,Yes
+9,54,Postmenopausal,No,Yes,Severe,Severe,Very Severe,Mild,Yes,Yes,No,Balanced,Moderate ,Low,Mild,Severe,Severe,Yes
+10,46,Premenopausal,Yes,No,Mild,Mild,Mild,No,No,No,Yes,Balanced,Moderate ,High,Severe,Mild,Mild,No
+11,56,Postmenopausal,No,Yes,Moderate,Mild,Moderate,Mild,Yes,Yes,Yes,Unbalanced,Moderate ,Moderate,Moderate ,Severe,Moderate,Yes
+12,50,Perimenopausal,Yes,Yes,Severe,Moderate,Very Severe,Moderate,Moderate,Yes,Mild,Balanced,Mild,Low,Mild,Moderate,Moderate,Yes
+13,48,Premenopausal,No,No,Mild,Mild,Mild,No,No,No,Yes,Balanced,Moderate ,High,Severe,Mild,Mild,No
+14,52,Perimenopausal,Yes,Yes,Severe,Severe,Very Severe,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Moderate,Moderate ,Severe,Severe,Yes
+15,55,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+16,49,Premenopausal,Yes,No,Moderate,Mild,Moderate,No,No,No,No,Balanced,Mild,High,Severe,Mild,Mild,No
+17,53,Postmenopausal,No,Yes,Severe,Moderate,Very Severe,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Low,Mild,Severe,Moderate,Yes
+18,47,Premenopausal,Yes,No,Mild,Mild,Mild,No,No,No,Yes,Balanced,Moderate ,High,Severe,Mild,Mild,No
+19,51,Perimenopausal,No,Yes,Moderate,Mild,Moderate,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Low,Moderate ,Severe,Moderate,Yes
+20,54,Postmenopausal,No,Yes,Severe,Severe,Very Severe,Mild,Yes,Yes,No,Balanced,Moderate ,Low,Mild,Severe,Severe,Yes
+21,46,Premenopausal,Yes,No,Mild,Mild,Mild,No,No,No,Yes,Balanced,Moderate ,High,Severe,Mild,Mild,No
+22,56,Postmenopausal,No,Yes,Moderate,Mild,Moderate,Mild,Yes,Yes,Yes,Unbalanced,Moderate ,Moderate,Moderate ,Severe,Moderate,Yes
+23,50,Perimenopausal,Yes,Yes,Severe,Moderate,Very Severe,Moderate,Moderate,Yes,Mild,Balanced,Mild,Low,Mild,Moderate,Moderate,Yes
+24,48,Premenopausal,No,No,Mild,Mild,Mild,No,No,No,Yes,Balanced,Moderate ,High,Severe,Mild,Mild,No
+25,52,Perimenopausal,Yes,Yes,Severe,Severe,Very Severe,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Moderate,Moderate ,Severe,Severe,Yes
+26,55,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+27,49,Premenopausal,Yes,No,Moderate,Mild,Moderate,No,No,No,No,Balanced,Mild,High,Severe,Mild,Mild,No
+28,53,Postmenopausal,No,Yes,Severe,Moderate,Very Severe,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Low,Mild,Severe,Moderate,Yes
+29,47,Premenopausal,Yes,No,Mild,Mild,Mild,No,No,No,Yes,Balanced,Moderate ,High,Severe,Mild,Mild,No
+30,51,Perimenopausal,No,Yes,Moderate,Mild,Moderate,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Low,Moderate ,Severe,Moderate,Yes
+31,54,Postmenopausal,No,Yes,Severe,Severe,Very Severe,Mild,Yes,Yes,No,Balanced,Moderate ,Low,Mild,Severe,Severe,Yes
+32,46,Premenopausal,Yes,No,Mild,Mild,Mild,No,No,No,Yes,Balanced,Moderate ,High,Severe,Mild,Mild,No 
+33,56,Postmenopausal,No,Yes,Moderate,Mild,Moderate,Mild,Yes,Yes,Yes,Unbalanced,Moderate ,Moderate,Moderate ,Severe,Moderate,Yes
+34,50,Perimenopausal,Yes,Yes,Severe,Moderate,Very Severe,Moderate,Moderate,Yes,Mild,Balanced,Mild,Low,Mild,Moderate,Moderate,Yes
+35,48,Premenopausal,No,No,Mild,Mild,Mild,No,No,No,Yes,Balanced,Moderate ,High,Severe,Mild,Mild,No
+36,52,Perimenopausal,Yes,Yes,Severe,Severe,Very Severe,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Moderate,Moderate ,Severe,Severe,Yes
+37,55,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+38,49,Premenopausal,Yes,No,Moderate,Mild,Moderate,No,No,No,No,Balanced,Mild,High,Severe,Mild,Mild,No
+39,53,Postmenopausal,No,Yes,Severe,Moderate,Very Severe,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Low,Mild,Severe,Moderate,Yes
+40,47,Premenopausal,Yes,No,Mild,Mild,Mild,No,No,No,Yes,Balanced,Moderate ,High,Severe,Mild,Mild,No
+41,51,Perimenopausal,No,Yes,Moderate,Mild,Moderate,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Low,Moderate ,Severe,Moderate,Yes
+42,54,Postmenopausal,No,Yes,Severe,Severe,Very Severe,Mild,Yes,Yes,No,Balanced,Moderate ,Low,Mild,Severe,Severe,Yes
+43,46,Premenopausal,Yes,No,Mild,Mild,Mild,No,No,No,Yes,Balanced,Moderate ,High,Severe,Mild,Mild,No
+44,56,Postmenopausal,No,Yes,Moderate,Mild,Moderate,Mild,Yes,Yes,Yes,Unbalanced,Moderate ,Moderate,Moderate ,Severe,Moderate,Yes
+45,50,Perimenopausal,Yes,Yes,Severe,Moderate,Very Severe,Moderate,Moderate,Yes,Mild,Balanced,Mild,Low,Mild,Moderate,Moderate,Yes
+46,48,Premenopausal,No,No,Mild,Mild,Mild,No,No,No,Yes,Balanced,Moderate ,High,Severe,Mild,Mild,No
+47,52,Perimenopausal,Yes,Yes,Severe,Severe,Very Severe,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Moderate,Moderate ,Severe,Severe,Yes
+48,55,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+49,49,Premenopausal,Yes,No,Moderate,Mild,Moderate,No,No,No,No,Balanced,Mild,High,Severe,Mild,Mild,No
+50,53,Postmenopausal,No,Yes,Severe,Moderate,Very Severe,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Low,Mild,Severe,Moderate,Yes
+51,47,Premenopausal,Yes,No,Mild,Mild,Mild,No,No,No,Yes,Balanced,Moderate ,High,Severe,Mild,Mild,No
+52,52,Perimenopausal,Yes,Yes,Moderate,Mild,Severe,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Moderate,Moderate ,Severe,Moderate,Yes
+53,49,Premenopausal,No,No,Mild,Mild,Mild,No,No,No,Yes,Balanced,Moderate ,High,Severe,Mild,Mild,No
+54,53,Postmenopausal,No,Yes,Severe,Moderate,Very Severe,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Low,Mild,Severe,Moderate,Yes
+55,48,Premenopausal,Yes,No,Mild,Mild,Mild,No,No,No,Yes,Balanced,Moderate ,High,Severe,Mild,Mild,No
+56,54,Perimenopausal,Yes,Yes,Severe,Severe,Very Severe,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Moderate,Moderate ,Severe,Severe,Yes
+57,50,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+58,55,Premenopausal,Yes,No,Moderate,Mild,Moderate,No,No,No,No,Balanced,Mild,High,Severe,Mild,Mild,No
+59,51,Perimenopausal,No,Yes,Moderate,Mild,Moderate,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Low,Moderate ,Severe,Moderate,Yes
+60,56,Postmenopausal,No,Yes,Moderate,Mild,Moderate,Mild,Yes,Yes,Yes,Unbalanced,Moderate ,Moderate,Moderate ,Severe,Moderate,Yes
+61,48,Premenopausal,Yes,No,Mild,Mild,Mild,No,No,No,Yes,Balanced,Moderate ,High,Severe,Mild,Mild,No
+62,53,Perimenopausal,Yes,Yes,Severe,Moderate,Very Severe,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Moderate,Moderate ,Severe,Severe,Yes
+63,49,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+64,54,Premenopausal,Yes,No,Moderate,Mild,Moderate,No,No,No,No,Balanced,Mild,High,Severe,Mild,Mild,No
+65,50,Perimenopausal,No,Yes,Moderate,Mild,Moderate,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Low,Moderate ,Severe,Moderate,Yes
+66,55,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+67,48,Premenopausal,Yes,No,Mild,Mild,Mild,No,No,No,Yes,Balanced,Moderate ,High,Severe,Mild,Mild,No
+68,53,Perimenopausal,Yes,Yes,Severe,Moderate,Very Severe,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Moderate,Moderate ,Severe,Severe,Yes
+69,49,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+70,54,Premenopausal,Yes,No,Moderate,Mild,Moderate,No,No,No,No,Balanced,Mild,High,Severe,Mild,Mild,No
+71,50,Perimenopausal,No,Yes,Moderate,Mild,Moderate,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Low,Moderate ,Severe,Moderate,Yes
+72,55,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+73,48,Premenopausal,Yes,No,Mild,Mild,Mild,No,No,No,Yes,Balanced,Moderate ,High,Severe,Mild,Mild,No
+74,53,Perimenopausal,Yes,Yes,Severe,Moderate,Very Severe,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Moderate,Moderate ,Severe,Severe,Yes
+75,49,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+76,54,Premenopausal,Yes,No,Moderate,Mild,Moderate,No,No,No,No,Balanced,Mild,High,Severe,Mild,Mild,No
+77,50,Perimenopausal,No,Yes,Moderate,Mild,Moderate,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Low,Moderate ,Severe,Moderate,Yes
+78,55,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+79,48,Premenopausal,Yes,No,Mild,Mild,Mild,No,No,No,Yes,Balanced,Moderate ,High,Severe,Mild,Mild,No
+80,53,Perimenopausal,Yes,Yes,Severe,Moderate,Very Severe,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Moderate,Moderate ,Severe,Severe,Yes
+81,49,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+82,54,Premenopausal,Yes,No,Moderate,Mild,Moderate,No,No,No,No,Balanced,Mild,High,Severe,Mild,Mild,No
+83,50,Perimenopausal,No,Yes,Moderate,Mild,Moderate,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Low,Moderate ,Severe,Moderate,Yes
+84,55,Postmenopausal,No,Yes,Moderate,Mild ,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+85,48,Premenopausal,Yes,No,Mild,Mild,Mild,No,No,No,Yes,Balanced,Moderate ,High,Severe,Mild,Mild,No
+86,53,Perimenopausal,Yes,Yes,Severe,Moderate,Very Severe,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Moderate,Moderate ,Severe,Severe,Yes
+87,49,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+88,54,Premenopausal,Yes,No,Moderate,Mild,Moderate,No,No,No,No,Balanced,Mild,High,Severe,Mild,Mild,No
+89,50,Perimenopausal,No,Yes,Moderate,Mild,Moderate,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Low,Moderate ,Severe,Moderate,Yes
+90,55,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+91,48,Premenopausal,Yes,No,Mild,Mild,Mild,No,No,No,Yes,Balanced,Moderate ,High,Severe,Mild,Mild,No
+92,53,Perimenopausal,Yes,Yes,Severe,Moderate,Very Severe,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Moderate,Moderate ,Severe,Severe,Yes
+93,49,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+94,54,Premenopausal,Yes,No,Moderate,Mild,Moderate,No,No,No,No,Balanced,Mild ,High ,Severe,Mild,Mild,No
+95,50,Perimenopausal,No,Yes,Moderate,Mild,Moderate,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Low,Moderate ,Severe,Moderate,Yes
+96,55,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+97,48,Premenopausal,Yes,No,Mild,Mild,Mild,No,No,No,Yes,Balanced,Moderate ,High,Severe,Mild,Mild,No
+98,53,Perimenopausal,Yes,Yes,Severe,Moderate,Very Severe,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Moderate,Moderate ,Severe,Severe,Yes
+99,49,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+100,54,Premenopausal,Yes,No,Moderate,Mild,Moderate,No,No,No,No,Balanced,Mild,High ,Severe,Mild,Mild,No
+101,50,Perimenopausal,No,Yes,Moderate,Mild,Moderate,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Low,Moderate ,Severe ,Moderate ,Yes
+102,55,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate ,Moderate ,Mild,Mild,No
+103,48,Premenopausal,Yes,No,Mild,Mild ,Mild,No,No,No,Yes,Balanced,Moderate ,High,Severe,Mild,Mild,No
+104,53,Perimenopausal,Yes,Yes,Severe,Moderate,Very Severe,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Moderate,Moderate ,Severe,Severe,Yes
+105,49,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+106,54,Premenopausal,Yes,No,Moderate,Mild,Moderate,No,No,No,No,Balanced,Mild,High,Severe,Mild,Mild,No
+107,50,Perimenopausal,Np,Yes,Moderate,Mild,Moderate,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Low,Moderate ,Severe,Moderate,Yes
+108,55,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+109,48,Premenopausal,Yes,No,Mild,Mild,Mild,No,No,No,Yes,Balanced,Moderate ,High,Severe,Mild,Mild,No
+110,53,Perimenopausal,Yes,Yes,Severe,Moderate ,Very Severe,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Moderate,Moderate ,Sever,Severe,Yes
+111,49,Postmenopausal,No,Yes,Moderate,Mild ,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+112,54,Premenopausal,Yes,No,Moderate,Mild,Moderate,No,No,No,No,Balanced,Mild,High,Severe,Mild,Mild,No
+113,50,Perimenopausal,No,Yes,Moderate,Mild,Moderate,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Low,Moderate ,Severe,Moderate,Yes
+114,55,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+115,48,Premenopausal,Yes,No,Mild,Mild,Mild,No,No,No,Yes,Balanced,Moderate ,High,Severe,Mild,Mild,No
+116,53,Perimenopausal,Yes,Yes,Severe,Moderate,Very Severe,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Moderate,Moderate ,Severe,Severe,Yes
+117,49,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+118,54,Premenopausal,Yes,No,Moderate,Mild,Moderate,No,No,No,No,Balanced,Mild,High,Severe,Mild,Mild,No
+119,50,Perimenopausal,No,Yes,Moderate,Mild,Moderate,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Low,Moderate ,Severe,Moderate,Yes
+120,55,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+121,48,Premenopausal,Yes,No,Mild,Mild,Mild,No,No,No,Yes,Balanced,Moderate ,High,Severe,Mild,Mild,No
+122,53,Perimenopausal,Yes,Yes,Severe,Moderate,Very Severe,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Moderate,Moderate ,Severe,Severe,Yes
+123,49,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+124,54,Premenopausal,Yes,No,Moderate,Mild,Moderate,No,No,No,No,Balanced,Mild,High,Severe,Mild,Mild,No
+125,50,Perimenopausal,No,Yes,Moderate,Mild,Moderate,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Low,Moderate ,Severe,Moderate,Yes
+126,55,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+127,48,Premenopausal,Yes,No,Mild,Mild,Mild,No,No,No,Yes,Balanced,Moderate ,High ,Severe,Mild,Mild,No
+128,53,Perimenopausal,Yes,Yes,Severe,Moderate,Very Severe,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Moderate,Moderate ,Severe,Severe,Yes
+129,49,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+130,54,Premenopausal,Yes,No,Moderate,Mild,Moderate,No,No,No,No,Balanced,Mild,High,Severe,Mild,Mild,No
+131,50,Perimenopausal,No,Yes,Moderate,Mild,Moderate,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Low,Moderate ,Severe,Moderate,Yes
+132,55,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+133,48,Premenopausal,Yes,No,Mild,Mild,Mild,No,No,No,Yes,Balanced,Moderate ,High,Severe,Mild,Mild,No
+134,53,Perimenopausal,Yes,Yes,Severe,Moderate,Very Severe,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Moderate,Moderate ,Severe,Severe,Yes
+135,49,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+136,54,Premenopausal,Yes,No,Moderate,Mild,Moderate,No,No,No,No,Balanced,Mild,High,Severe,Mild,Mild,No
+137,50,Perimenopausal,No,Yes,Moderate,Mild,Moderate,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Low,Moderate ,Severe,Moderate,Yes
+138,55,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+139,48,Premenopausal,Yes,No,Mild,Mild,Mild,No,No,No,Yes,Balanced,Moderate ,High,Severe,Mild,Mild,No
+140,53,Perimenopausal,Yes,Yes,Severe,Moderate,Very Severe,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Moderate,Moderate ,Severe,Severe,Yes
+141,49,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+142,54,Premenopausal,Yes,No,Moderate,Mild,Moderate,No,No,No,No,Balanced,Mild,High,Severe,Mild,Mild,No
+143,50,Perimenopausal,No,Yes,Moderate,Mild,Moderate,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Low,Moderate ,Severe,Moderate,Yes
+144,55,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+145,48,Premenopausal,Yes,No,Mild,Mild,Mild,No,No,No,Yes,Balanced,Moderate ,High,Severe,Mild,Mild,No
+146,53,Perimenopausal,Yes,Yes,Severe,Moderate,Very Severe,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Moderate,Moderate ,Severe,Severe,Yes
+147,49,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+148,54,Premenopausal,Yes,No,Moderate,Mild,Moderate,No,No,No,No,Balanced,Mild,High,Severe,Mild,Mild,No
+149,50,Perimenopausal,No,Yes,Moderate,Mild,Moderate,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Low,Moderate ,Severe,Moderate,Yes
+150,55,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+151,48,Premenopausal,Yes,No,Mild,Mild,Mild,No,No,No,Yes,Balanced,Moderate ,High,Severe,Mild,Mild,No
+152,53,Perimenopausal,Yes,Yes,Severe,Moderate,Very Severe,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Moderate,Moderate ,Severe,Severe,Yes
+153,49,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+154,54,Premenopausal,Yes,No,Moderate,Mild,Moderate,No,No,No,No,Balanced,Mild,High,Severe,Mild,Mild,No
+155,50,Perimenopausal,No,Yes,Moderate,Mild,Moderate,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Low,Moderate ,Severe,Moderate,Yes
+156,55,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+157,48,Premenopausal,Yes,No,Mild,Mild,Mild,No,No,No,Yes,Balanced,Moderate ,High,Severe,Mild,Mild,No
+158,53,Perimenopausal,Yes,Yes,Severe,Moderate,Very Severe,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Moderate,Moderate ,Severe,Severe,Yes
+159,49,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+160,54,Premenopausal,Yes,No,Moderate,Mild,Moderate,No,No,No,No,Balanced,Mild,High,Severe,Mild,Mild,No
+161,50,Perimenopausal,No,Yes,Moderate,Mild,Moderate,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Low,Moderate ,Severe,Moderate ,Yes
+162,55,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+163,48,Premenopausal,Yes,No,Mild,Mild,Mild,No,No,No,Yes,Balanced,Moderate ,High,Severe,Mild,Mild,No
+164,53,Perimenopausal,Yes,Yes,Severe,Moderate,Very Severe,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Moderate,Moderate ,Severe,Severe,Yes
+165,49,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+166,54,Premenopausal,Yes,No,Moderate,Mild,Moderate,No,No,No,No,Balanced,Mild,High,Severe,Mild,Mild,No
+167,50,Perimenopausal,No,Yes,Moderate,Mild,Moderate,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Low,Moderate ,Severe,Moderate,Yes
+168,55,Postmenopausal,No,Yes,Moderate,Mild ,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+169,48,Premenopausal,Yes,No,Mild,Mild,Mild,No,No,No,Yes,Balanced,Moderate ,High,Severe,Mild,Mild,No
+170,53,Perimenopausal,Yes,Yes,Severe,Moderate,Very Severe,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Moderate,Moderate ,Severe,Severe,Yes
+171,49,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+172,54,Premenopausal,Yes,No,Moderate,Mild,Moderate,No,No,No,No,Balanced,Mild,High,Severe,Mild,Mild,No
+173,50,Perimenopausal,No,Yes,Moderate,Mild,Moderate,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Low,Moderate ,Severe,Moderate,Yes
+174,55,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+175,48,Premenopausal,Yes,No,Mild,Mild,Mild,No,No,No,Yes,Balanced,Moderate ,High,Severe,Mild,Mild,No
+176,53,Perimenopausal,Yes,Yes,Severe,Moderate,Very Severe,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Moderate,Moderate ,Severe,Severe,Yes
+177,49,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+178,54,Premenopausal,Yes,No,Moderate,Mild,Moderate,No,No,No,No,Balanced,Mild,High,Severe,Mild,Mild,No
+179,50,Perimenopausal,No,Yes,Moderate,Mild,Moderate,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Low,Moderate ,Severe,Moderate,Yes
+180,55,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+181,48,Premenopausal,Yes,No,Mild,Mild,Mild,No,No,No,Yes,Balanced,Moderate ,High,Severe,Mild,Mild,No
+182,53,Perimenopausal,Yes,Yes,Severe,Moderate,Very Severe,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Moderate,Moderate ,Severe,Severe,Yes
+183,49,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+184,54,Premenopausal,Yes,No,Moderate,Mild,Moderate,No,No,No,No,Balanced,Mild,High,Severe,Mild,Mild,No
+185,50,Perimenopausal,No,Yes,Moderate,Mild,Moderate,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Low,Moderate ,Severe,Moderate,Yes
+186,55,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+187,48,Premenopausal,Yes,No,Mild,Mild,Mild,No,No,No,Yes,Balanced,Moderate ,High,Severe,Mild,Mild,No
+188,53,Perimenopausal,Yes,Yes,Severe,Moderate,Very Severe,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Moderate,Moderate ,Severe,Severe,Yes
+189,49,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+190,54,Premenopausal,Yes,No,Moderate,Mild,Moderate,No,No,No,No,Balanced,Mild,High,Severe,Mild,Mild,No
+191,50,Perimenopausal,No,Yes,Moderate,Mild,Moderate,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Low,Moderate ,Severe,Moderate,Yes
+192,55,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+193,48,Premenopausal,Yes,No,Mild,Mild,Mild,No,No,No,Yes,Balanced,Moderate ,High,Severe,Mild,Mild,No
+194,53,Perimenopausal,Yes,Yes,Severe,Moderate,Very Severe,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Moderate,Moderate ,Severe,Severe,Yes
+195,49,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+196,54,Premenopausal,Yes,No,Moderate,Mild,Moderate,No,No,No,No,Balanced,Mild,High,Severe,Mild,Mild,No
+197,50,Perimenopausal,No,Yes,Moderate,Mild,Moderate,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Low,Moderate ,Severe,Moderate,Yes
+198,55,Postmenopausal,No,Yes,Moderate,Mild ,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+199,48,Premenopausal,Yes,No,Mild,Mild,Mild,No,No,No,Yes,Balanced,Moderate ,High,Severe,Mild,Mild,No
+200,53,Perimenopausal,Yes,Yes,Severe,Moderate,Very Severe,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Moderate,Moderate ,Severe,Severe,Yes
+201,48,Premenopausal,Yes,No,Mild,Mild,Mild,No,No,No,Yes,Balanced,Moderate ,High,Severe,Mild,Mild,No
+202,53,Perimenopausal,Yes,Yes,Severe,Moderate,Very Severe,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Moderate,Moderate ,Severe,Severe,Yes
+203,49,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+204,54,Premenopausal,Yes,No,Moderate,Mild,Moderate,No,No,No,No,Balanced,Mild,High ,Severe,Mild,Mild,No
+205,50,Perimenopausal,No,Yes,Moderate,Mild,Moderate,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Low,Moderate ,Severe,Moderate,Yes
+206,55,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+207,48,Premenopausal,Yes,No,Mild,Mild,Mild,No,No,No,Yes,Balanced,Moderate ,High,Severe,Mild,Mild,No
+208,53,Perimenopausal,Yes,Yes,Severe,Moderate,Very Severe,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Moderate,Moderate ,Severe,Severe,Yes
+209,49,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+210,54,Premenopausal,Yes,No,Moderate,Mild,Moderate,No,No,No,No,Balanced,Mild,High ,Severe,Mild,Mild,No
+211,50,Perimenopausal,No,Yes,Moderate,Mild,Moderate,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Low,Moderate ,Severe,Moderate,Yes
+212,55,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+213,48,Premenopausal,Yes,No,Mild,Mild,Mild,No,No,No,Yes,Balanced,Moderate ,High,Severe,Mild,Mild,No
+214,53,Perimenopausal,Yes,Yes,Severe,Moderate,Very Severe,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Moderate,Moderate ,Severe,Severe,Yes
+215,49,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+216,54,Premenopausal,Yes,No,Moderate,Mild,Moderate,No,No,No,No,Balanced,Mild,High ,Severe,Mild,Mild,No
+217,50,Perimenopausal,No,Yes,Moderate,Mild,Moderate,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Low,Moderate ,Severe,Moderate,Yes
+218,55,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+219,48,Premenopausal,Yes,No,Mild,Mild,Mild,No,No,No,Yes,Balanced,Moderate ,High,Severe,Mild,Mild,No
+220,53,Perimenopausal,Yes,Yes,Severe,Moderate,Very Severe,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Moderate,Moderate ,Severe,Severe,Yes
+221,49,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+222,54,Premenopausal,Yes,No,Moderate,Mild,Moderate,No,No,No,No,Balanced,Mild,High ,Severe,Mild,Mild,No
+223,50,Perimenopausal,No,Yes,Moderate,Mild,Moderate,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Low,Moderate ,Severe,Moderate,Yes
+224,55,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+225,48,Premenopausal,Yes,No,Mild,Mild,Mild,No,No,No,Yes,Balanced,Moderate ,High,Severe,Mild,Mild,No
+226,53,Perimenopausal,Yes,Yes,Severe,Moderate,Very Severe,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Moderate,Moderate ,Severe,Severe,Yes
+227,49,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+228,54,Premenopausal,Yes,No,Moderate,Mild,Moderate,No,No,No,No,Balanced,Mild,High ,Severe,Mild,Mild,No
+229,50,Perimenopausal,No,Yes,Moderate,Mild,Moderate,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Low,Moderate ,Severe,Moderate,Yes
+230,55,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+231,48,Premenopausal,Yes,No,Mild,Mild,Mild,No,No,No,Yes,Balanced,Moderate ,High,Severe,Mild,Mild,No
+232,53,Perimenopausal,Yes,Yes,Severe,Moderate,Very Severe,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Moderate,Moderate ,Severe,Severe,Yes
+233,49,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+234,54,Premenopausal,Yes,No,Moderate,Mild,Moderate,No,No,No,No,Balanced,Mild,High ,Severe,Mild,Mild,No
+235,50,Perimenopausal,No,Yes,Moderate,Mild,Moderate,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Low,Moderate ,Severe,Moderate,Yes
+236,55,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+237,48,Premenopausal,Yes,No,Mild,Mild,Mild,No,No,No,Yes,Balanced,Moderate ,High,Severe,Mild,Mild,No
+238,53,Perimenopausal,Yes,Yes,Severe,Moderate,Very Severe,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Moderate,Moderate ,Severe,Severe,Yes
+239,49,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+240,54,Premenopausal,Yes,No,Moderate,Mild,Moderate,No,No,No,No,Balanced,Mild,High ,Severe,Mild,Mild,No
+241,50,Perimenopausal,No,Yes,Moderate,Mild,Moderate,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Low,Moderate ,Severe,Moderate,Yes
+242,55,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+243,48,Premenopausal,Yes,No,Mild,Mild,Mild,No,No,No,Yes,Balanced,Moderate ,High,Severe,Mild,Mild,No
+244,53,Perimenopausal,Yes,Yes,Severe,Moderate,Very Severe,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Moderate,Moderate ,Severe,Severe,Yes
+245,49,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+246,54,Premenopausal,Yes,No,Moderate,Mild,Moderate,No,No,No,No,Balanced,Mild,High ,Severe,Mild,Mild,No
+247,50,Perimenopausal,No,Yes,Moderate,Mild,Moderate,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Low,Moderate ,Severe,Moderate,Yes
+248,55,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+249,48,Premenopausal,Yes,No,Mild,Mild,Mild,No,No,No,Yes,Balanced,Moderate ,High,Severe,Mild,Mild,No
+250,53,Perimenopausal,Yes,Yes,Severe,Moderate,Very Severe,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Moderate,Moderate ,Severe,Severe,Yes
+251,49,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+252,54,Premenopausal,Yes,No,Moderate,Mild,Moderate,No,No,No,No,Balanced,Mild,High ,Severe,Mild,Mild,No
+253,50,Perimenopausal,No,Yes,Moderate,Mild,Moderate,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Low,Moderate ,Severe,Moderate,Yes
+254,55,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+255,48,Premenopausal,Yes,No,Mild,Mild,Mild,No,No,No,Yes,Balanced,Moderate ,High,Severe,Mild,Mild,No
+256,53,Perimenopausal,Yes,Yes,Severe,Moderate,Very Severe,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Moderate,Moderate ,Severe,Severe,Yes
+257,49,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+258,54,Premenopausal,Yes,No,Moderate,Mild,Moderate,No,No,No,No,Balanced,Mild,High ,Severe,Mild,Mild,No
+259,50,Perimenopausal,No,Yes,Moderate,Mild,Moderate,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Low,Moderate ,Severe,Moderate,Yes
+260,55,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+261,48,Premenopausal,Yes,No,Mild,Mild,Mild,No,No,No,Yes,Balanced,Moderate ,High,Severe,Mild,Mild,No
+262,53,Perimenopausal,Yes,Yes,Severe,Moderate,Very Severe,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Moderate,Moderate ,Severe,Severe,Yes
+263,49,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+264,54,Premenopausal,Yes,No,Moderate,Mild,Moderate,No,No,No,No,Balanced,Mild,High ,Severe,Mild,Mild,No
+265,50,Perimenopausal,No,Yes,Moderate,Mild,Moderate,Moderate,Yes,Yes,Yes,Unbalanced,Moderate ,Low,Moderate ,Severe,Moderate,Yes
+266,55,Postmenopausal,No,Yes,Moderate,Mild,Severe,Mild,Yes,No,Yes,Balanced,Moderate ,Moderate,Moderate ,Mild,Mild,No
+267,48,Premenopausal,Yes,No,Mild,Mild,Mild,No,No,No,Yes,Balanced,Moderate ,High,Severe,Mild,Mild,No
